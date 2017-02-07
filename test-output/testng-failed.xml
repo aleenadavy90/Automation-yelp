@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [TestSuiteYummly]">
+  <test name="TestCases(failed)">
+    <classes>
+      <class name="com.yummly.TestCases">
+        <methods>
+          <include name="Test_C"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.yummly.TestCases -->
+    </classes>
+  </test> <!-- TestCases(failed) -->
+</suite> <!-- Failed suite [TestSuiteYummly] -->

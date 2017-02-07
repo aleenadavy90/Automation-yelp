@@ -1,0 +1,11 @@
+<suite name="TestSuiteYelp">
+<test name="TestCasesYelp" preserve-order="true">
+<classes> 
+   <class name="com.yelp.TestCasesYelp">   
+      <methods>
+        <include name="Test_A" />
+      </methods>
+   </class>
+</classes>
+</test>
+</suite>
